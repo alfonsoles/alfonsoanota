@@ -201,7 +201,7 @@ main p {
 .portrait {
   width: 100%;
   max-width: 170px;      /* Controls width of each portrait */
-  aspect-ratio: 3/4;
+  aspect-ratio: 9/16;
   object-fit: cover;
   border-radius: 26px;
   transition: box-shadow 0.28s, transform 0.22s;
@@ -267,4 +267,5 @@ footer {
     max-height: 180px;
   }
 }
+
 
